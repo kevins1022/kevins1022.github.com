@@ -18,7 +18,11 @@ h1, h2, h3, h4 {
   color: #428bca;
 }
 #footer {
-  background-color: #fdcd60;
+  background-color: #000;
+  color: #fff
+}
+#footer a{
+  
 }
 
 
